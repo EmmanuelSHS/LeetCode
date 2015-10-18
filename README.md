@@ -15,7 +15,6 @@ LINT_DP_longest_com_subseq.cpp:
 
     LCS is defined as https://en.wikipedia.org/wiki/Longest_common_subsequence_problem.  
 
-
 OTHER_DP_Min_Imbalance.cpp:
 
     Given an input of array a and a partition k, we split a[n] into k+1 subarray. 
@@ -24,3 +23,19 @@ OTHER_DP_Min_Imbalance.cpp:
 
     Output: a number of the Imbalance of Array s.t. its the smallest among all
     possible partitions given a[n] & k.
+
+
+LINT_DP_Backpack.cpp:
+    Given n items with size A_{i}, an integer m denotes the size of a backpack. How full you can fill this backpack? 
+    You function should return the max size we can fill in the given backpack. 
+    O(n x m) time and O(m) memory. 
+    O(n x m) memory is also acceptable if you do not know how to optimize memory.
+
+LINT_DP_Coins_in_line.cpp:  
+    There are n coins in a line. Two players take turns to take one or two coins from right side until there are no more coins left. The player who take the last coin wins.
+
+    Could you please decide the first play will win or lose?
+
+    O(n) time and O(1) memory.  
+
+
