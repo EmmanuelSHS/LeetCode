@@ -1,6 +1,6 @@
 /*************************************************************************
 	> File Name: LINT_DP_Coins_in_line.cpp
-	> Author: 
+	> Author: Mengqi Wang
 	> Created Time: Sat Oct 17 21:53:51 2015
 	> Question:
 	> 	There are n coins in a line. Two players take turns to take one or two 	> coins from right side until there are no more coins left. The player who 		> take the last coin wins.
