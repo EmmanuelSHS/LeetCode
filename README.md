@@ -42,7 +42,7 @@ LINT_DP_Coins_in_line.cpp:
 
     O(n) time and O(1) memory.  
 
-LINT_DP_EditDistance:
+LINT_DP_EditDistance.cpp:
 
     Given two words word1 and word2, find the minimum number of steps required to convert word1 to word2. (each operation is counted as 1 step.)
 
@@ -55,4 +55,9 @@ LINT_DP_EditDistance:
         Replace a character
 
 
+LEET_GD_stock_sell_buy_II.cpp:
+
+	Say you have an array for which the ith element is the price of a given stock on day i.
+
+	Design an algorithm to find the maximum profit. You may complete as many transactions as you like (ie, buy one and sell one share of the stock multiple times). However, you may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
 
