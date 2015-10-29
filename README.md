@@ -64,4 +64,10 @@ LEET_GD_stock_sell_buy_II.cpp:
 LINT_DP_longest_incre_subseq.cpp:
 	
 	Given two strings, find the longest common subsequence (LCS). Your code should return the length of LCS.
+	
+LINT_DP_word_break.cpp:
+
+	Given a string s and a dictionary of words dict, determine if s can be break into a space-separated sequence of one or more dictionary words.
+	
+
 

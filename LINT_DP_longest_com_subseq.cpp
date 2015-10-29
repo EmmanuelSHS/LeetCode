@@ -12,7 +12,6 @@ using namespace std;
 class Solution {
 public:
     int longestCommonSubsequence(string A, string B) {
-        // write your code here
         int row = A.length() + 1;
         int col = B.length() + 1;
         int lcs[row][col];

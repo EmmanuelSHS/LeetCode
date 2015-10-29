@@ -18,7 +18,6 @@ public:
      * @return: a boolean which equals to true if the first player will win
      */
     bool firstWillWin(int n) {
-        // write your code here
         // fundamental hypothesis: 
         //      1st player keep the coins left to be odd
         //      2nd player keep the coins after he drawn to be even

@@ -23,7 +23,6 @@ public:
      * @return: The minimum number of steps.
      */
     int minDistance(string word1, string word2) {
-        // write your code here
         // Wagner–Fischer algorithm for Edit Distance
         int row = word1.size() + 1;
         int col = word2.size() + 1;

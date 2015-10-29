@@ -17,7 +17,6 @@ public:
      * @return: The length of LIS (longest increasing subsequence)
      */
     int longestIncreasingSubsequence(vector<int> nums) {
-        // write your code here
         int len = nums.size();
         int f[len];
         int f_max = 0;
@@ -44,5 +43,6 @@ int main() {
     vector<int> input(test, test + sizeof(test)/sizeof(int));
     cout << s->longestIncreasingSubsequence(input) << endl;
 
+    delete s;
     return 0;
 }

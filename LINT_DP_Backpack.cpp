@@ -19,7 +19,6 @@ public:
      * @return: The maximum size
      */
     int backPack(int m, vector<int> A) {
-        // write your code here
         int len = A.size();
         bool f[m + 1];
         for (int i = 0; i < m + 1; ++i) f[i] = false;
