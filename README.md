@@ -6,7 +6,7 @@ But also the other classic algorithms.
 
 LEET_Bit_Single_Number:
 
-Given an array of integers, every element appears twice except for one. Find that single one.
+	Given an array of integers, every element appears twice except for one. Find that single one.
 
 
 LINT_DP_longest_com_subseq.cpp:
@@ -69,5 +69,7 @@ LINT_DP_word_break.cpp:
 
 	Given a string s and a dictionary of words dict, determine if s can be break into a space-separated sequence of one or more dictionary words.
 	
+LINT_sort_2_sum.cpp:
 
+	Given an array of integers, find two numbers such that they add up to a specific target number.
 
