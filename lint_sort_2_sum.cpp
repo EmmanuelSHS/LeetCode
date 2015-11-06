@@ -43,7 +43,7 @@ public:
         return sorted;
     }
     vector<int> twoSum(vector<int> &nums, int target) {
-        // write your code here
+        // need to consider robusity under negative numbers in vector
         int n = nums.size();
         int *p = &nums[0]; 
         int *q = &nums[n - 1];
