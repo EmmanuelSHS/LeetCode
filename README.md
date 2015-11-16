@@ -1,7 +1,5 @@
 # LeetCode
-The folder containing not only leetcode questions for algorithms & database.
-
-But also the other classic algorithms.
+The folder containing not only leetcode questions for algorithms & database, but also the other classic algorithms from other open judges.
 
 
 LEET_Bit_Single_Number:
@@ -69,7 +67,10 @@ LINT_DP_word_break.cpp:
 
 	Given a string s and a dictionary of words dict, determine if s can be break into a space-separated sequence of one or more dictionary words.
 	
-LINT_sort_2_sum.cpp:
+LINT_dstructure_2_sum.cpp:
 
 	Given an array of integers, find two numbers such that they add up to a specific target number.
 
+LINT_bit_aplusb.cpp:
+
+	Give two 32-bit int, adding w/o using "+" operand.
