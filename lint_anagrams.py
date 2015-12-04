@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding=utf-8
-
+'''
+Given an array of strings, return all groups of strings that are anagrams.
+'''
 class Solution:
     # @param strs: A list of strings
     # @return: A list of strings
