@@ -82,3 +82,11 @@ lint_generate_parentheses.py:
 
 	Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 	
+lint_graphic_valid_tree.py:
+
+	Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge is a pair of nodes), write a function to check whether these edges make up a valid tree.
+	
+### Data Structure
+lint_implement_trie.py:
+
+	Implement a trie with insert, search, and startsWith methods.
