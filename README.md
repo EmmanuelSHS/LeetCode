@@ -90,3 +90,8 @@ lint_graphic_valid_tree.py:
 lint_implement_trie.py:
 
 	Implement a trie with insert, search, and startsWith methods.
+	
+### Sorting
+lint_median.py:
+
+	return the median of input array in O(n) time.
