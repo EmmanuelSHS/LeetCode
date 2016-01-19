@@ -95,3 +95,7 @@ lint_implement_trie.py:
 lint_median.py:
 
 	return the median of input array in O(n) time.
+	
+lint_kth_largest_element.py:
+
+	return the k-th largest elements of input array, O(n) running time, O(1) extra space.
