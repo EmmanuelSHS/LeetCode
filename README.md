@@ -99,3 +99,7 @@ lint_median.py:
 lint_kth_largest_element.py:
 
 	return the k-th largest elements of input array, O(n) running time, O(1) extra space.
+	
+lint_3sum.py:
+
+	return distinct sets of 3 elements (ascending order) for input array. O(n^2) runtime.
