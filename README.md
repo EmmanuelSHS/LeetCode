@@ -103,3 +103,7 @@ lint_kth_largest_element.py:
 lint_3sum.py:
 
 	return distinct sets of 3 elements (ascending order) for input array. O(n^2) runtime.
+
+lint_largest_number.py:
+
+    return a string of number that is the largest possible composed by given input array. O(nlog(n)) runtime.
