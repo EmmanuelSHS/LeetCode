@@ -117,3 +117,7 @@ lint_partitionArray.py:
         Return the partitioning index, i.e the first index i nums[i] >= k.
 
     if all number smaller than k, return len(nums)
+
+lint_sort_colors.py:
+
+    Iterate once to sort all the 0s 1s & 2s.
