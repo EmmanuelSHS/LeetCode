@@ -107,3 +107,13 @@ lint_3sum.py:
 lint_largest_number.py:
 
     return a string of number that is the largest possible composed by given input array. O(nlog(n)) runtime.
+
+lint_partitionArray.py:
+
+    Given an array nums of integers and an int k, partition the array (i.e move the elements in "nums") such that:
+
+        All elements < k are moved to the left
+        All elements >= k are moved to the right
+        Return the partitioning index, i.e the first index i nums[i] >= k.
+
+    if all number smaller than k, return len(nums)
