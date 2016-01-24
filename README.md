@@ -130,3 +130,8 @@ lint_sort_by_case.py:
 
     Sort a string by lower cases first and upper cases later. In-place & O(n) (one-pass).
 
+lint_max_gap.py:
+
+    Return the max diff between two neighboring numbers in sorted array. O(n) time & space.
+
+
