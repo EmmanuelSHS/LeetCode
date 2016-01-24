@@ -21,8 +21,6 @@ class Solution:
         while (sorted < k):
             i = p1
             while (i <= p2):
-                print p1, p2
-                print colors
                 if colors[i] == now_max:
                     colors[i], colors[p2] = colors[p2], colors[i]
                     p2 -= 1
