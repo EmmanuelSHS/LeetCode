@@ -52,6 +52,15 @@ LINT_word_break.cpp:
 
 	Given a string s and a dictionary of words dict, determine if s can be break into a space-separated sequence of one or more dictionary words.
 
+lint_unique_path.py:
+
+    Return unique paths from left-upper-most corner to right-down-most corner. You may suppose that one can only travel right down.
+
+lint_jump_game.py:
+
+    Given a list A of max steps A[i] that you could jump from the i-th position. Return whether one could start from i = 0 and jumped to i = len(A) - 1.
+
+
 ### Bit Manipulation
 LEET_Single_Number:
 
