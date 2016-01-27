@@ -60,6 +60,10 @@ lint_jump_game.py:
 
     Given a list A of max steps A[i] that you could jump from the i-th position. Return whether one could start from i = 0 and jumped to i = len(A) - 1.
 
+lint_minPatSum.py:
+
+    Given a m*n non-negative array, return the min sum of the path from left-up most to right-down most.
+
 
 ### Bit Manipulation
 LEET_Single_Number:
