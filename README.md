@@ -68,6 +68,10 @@ lint_numTree.py:
 
     Given a number n, find number of unique BST(binary search tree). More eg on http://www.lintcode.com/en/problem/unique-binary-search-trees/
 
+lint_house_robber.py:
+
+    Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police. Note that money couldn't be stolen from adjacent houses.
+
         
 ### Bit Manipulation
 LEET_Single_Number:
