@@ -64,7 +64,11 @@ lint_minPatSum.py:
 
     Given a m*n non-negative array, return the min sum of the path from left-up most to right-down most.
 
+lint_numTree.py:
 
+    Given a number n, find number of unique BST(binary search tree). More eg on http://www.lintcode.com/en/problem/unique-binary-search-trees/
+
+        
 ### Bit Manipulation
 LEET_Single_Number:
 
