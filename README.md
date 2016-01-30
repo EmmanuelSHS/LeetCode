@@ -72,6 +72,20 @@ lint_house_robber.py:
 
     Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police. Note that money couldn't be stolen from adjacent houses.
 
+lint_distinct_subsequence.py:
+
+	Given a string S and a string T, count the number of distinct subsequences of T in S.
+	
+lint_longest_common_substring.py:
+
+	Given two strings, find the longest common substring. Return the length of it. Note that substring should be one in continuous manner.
+	
+	
+lint_max_product_subarray.py:
+
+	Find the contiguous subarray within an array (containing at least one number) which has the largest product.
+	
+	
         
 ### Bit Manipulation
 LEET_Single_Number:
