@@ -103,6 +103,14 @@ LEET_stock_sell_buy_II.cpp:
 
 	Design an algorithm to find the maximum profit. You may complete as many transactions as you like (ie, buy one and sell one share of the stock multiple times). However, you may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
 	
+lint_gas_station.py:
+
+	There are N gas stations along a circular route, where the amount of gas at station i is gas[i].
+
+	You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from station i to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.
+
+	Return the starting gas station's index if you can travel around the circuit once, otherwise return -1.
+	
 ### Hashing
 LINT_2_sum.cpp:
 
