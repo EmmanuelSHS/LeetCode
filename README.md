@@ -134,6 +134,20 @@ lint_graphic_valid_tree.py:
 
 	Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge is a pair of nodes), write a function to check whether these edges make up a valid tree.
 	
+	
+### Divide-and-Conquer
+lint_pow_x_n.py:
+
+	Provide with a O(log(n))function of power.
+	
+lint_fast_power.py:
+
+	Provide with a faster power function for possible a^b%n where a, b, n could be 32-bits integer.
+	
+lint_MergeKSortedList.py:
+
+	Merge a lists of sorted list.
+	
 ### Data Structure
 lint_implement_trie.py:
 
