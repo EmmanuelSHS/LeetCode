@@ -111,6 +111,11 @@ lint_gas_station.py:
 
 	Return the starting gas station's index if you can travel around the circuit once, otherwise return -1.
 	
+lint_majority_number_ii.py:
+
+	Given an array of integers, the majority number is the number that occurs more than 1/3 of the size of the array. Provide with a O(n) running time & O(1) space algorithm.
+
+
 ### Hashing
 LINT_2_sum.cpp:
 

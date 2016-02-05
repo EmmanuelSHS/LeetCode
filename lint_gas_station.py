@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-‘’’
-If car starts at A and can not reach B. Any station between A and B can not reach B
-‘’’
+'''
+If car starts at A and can not reach B. Any station between A and B can not reach B.
+Here starts means "can move". This criteria support the circulation.
+ldiff is for saving local diff.
+'''
+
 class Solution:
     # @param gas, a list of integers
     # @param cost, a list of integers
