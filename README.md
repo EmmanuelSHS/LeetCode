@@ -148,6 +148,16 @@ lint_MergeKSortedList.py:
 
 	Merge a lists of sorted list.
 	
+lint_balanced_binary_tree.py:
+
+	Check whether a tree is balanced, the definition of which is the depth of left - of right < 1 in abs value.
+	
+### Backtrack:
+
+lint_combinations.py:
+
+	return all possible k number combinations of n integers [1 .. n].
+	
 ### Data Structure
 lint_implement_trie.py:
 
