@@ -152,11 +152,33 @@ lint_balanced_binary_tree.py:
 
 	Check whether a tree is balanced, the definition of which is the depth of left - of right < 1 in abs value.
 	
+lint_letter_combinations_phone.py:
+
+	Given a digit string, return all possible letter combinations that the number could represent.
+
+	A mapping of digit to letters (just like on the telephone buttons) is given: http://www.lintcode.com/en/problem/letter-combinations-of-a-phone-number
+	
+lint_palindrome_partition.py:
+
+	Given a string s, partition s such that every substring of the partition is a palindrome.
+
+	Return all possible palindrome partitioning of s.
+	
+lint_binary_tree_max_path_sum.py:
+	
+	Given a binary tree, find the maximum path sum. The path may start and end at any node in the tree.
+	
 ### Backtrack:
 
 lint_combinations.py:
 
 	return all possible k number combinations of n integers [1 .. n].
+	
+lint_word_search.py:
+
+	Given a 2D board and a word, find if the word exists in the grid.
+
+	The word can be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. The same letter cell may not be used more than once.
 	
 ### Data Structure
 lint_implement_trie.py:
