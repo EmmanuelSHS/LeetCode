@@ -125,7 +125,7 @@ lint_anagrams.py:
 
 	Given an array of strings, return all groups of strings that are anagrams.
 
-### Recurrence
+### Recursion
 lint_generate_parentheses.py:
 
 	Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
@@ -134,6 +134,17 @@ lint_graphic_valid_tree.py:
 
 	Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge is a pair of nodes), write a function to check whether these edges make up a valid tree.
 	
+lint_binary_tree_max_path_sum.py:
+	
+	Given a binary tree, find the maximum path sum. The path may start and end at any node in the tree.
+	
+lint_permutations_ii.py:
+	
+	Given a list of numbers with duplicate number in it. Find all unique permutations.
+	
+lint_subsets.py:
+
+	return all subsets of a given list, with each subset a non-descending order.
 	
 ### Divide-and-Conquer
 lint_pow_x_n.py:
@@ -163,10 +174,7 @@ lint_palindrome_partition.py:
 	Given a string s, partition s such that every substring of the partition is a palindrome.
 
 	Return all possible palindrome partitioning of s.
-	
-lint_binary_tree_max_path_sum.py:
-	
-	Given a binary tree, find the maximum path sum. The path may start and end at any node in the tree.
+
 	
 ### Backtrack:
 
